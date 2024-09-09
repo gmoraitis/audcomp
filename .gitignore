@@ -1,0 +1,56 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environment directories
+venv/
+env/
+ENV/
+
+# IDE or editor specific files
+.vscode/
+.idea/
+*.swp
+
+# macOS specific files
+.DS_Store
+
+# Log files
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Temporary files
+*.tmp
+*.bak
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Environment configuration
+.env
+*.env
+
+# Pytest cache
+.cache/
+
+# Coverage reports
+.coverage
+coverage.xml
+
+# Mypy
+.mypy_cache/
+.dmypy.json
+
+# Black formatter
+*.pyi
+
+# Pyre type checker
+.pyre/
+
+# Sphinx documentation
+docs/_build/
